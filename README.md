@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @ternw02
+- 👀 I’m interested in just some small codes
+- 🌱 I’m currently learning python3
